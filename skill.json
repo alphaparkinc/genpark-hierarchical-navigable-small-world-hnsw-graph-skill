@@ -1,0 +1,16 @@
+{
+  "name": "genpark-hierarchical-navigable-small-world-hnsw-graph-skill",
+  "version": "1.0.0",
+  "description": "Hierarchical Navigable Small World (HNSW) multi-layer vector index, greedy beam routing, and nearest neighbor search.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "hnsw",
+    "vector-database",
+    "ann",
+    "embeddings",
+    "rag",
+    "genpark",
+    "mcp"
+  ]
+}
