@@ -1,0 +1,6 @@
+name: genpark-hierarchical-navigable-small-world-hnsw-graph-skill
+version: 1.0.0
+description: Pure Python Hierarchical Navigable Small World (HNSW) proximity graph for fast vector approximate nearest neighbor search
+command: python
+args:
+  - mcp_server.py
