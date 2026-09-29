@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-hierarchical-navigable-small-world-hnsw-graph-skill"
+version = "1.0.0"
+description = "Pure Python Hierarchical Navigable Small World (HNSW) proximity graph for fast vector approximate nearest neighbor search"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
